@@ -1,0 +1,16 @@
+Gri33415,Griffiths,2015,Gold,35,40000
+Smi22316,Smith,2016,Silver,3,7500
+Mia56213,Miah,2013,Platinum,140,165000
+All78915,Allen,2015,Platinum,120,145000
+Hug91714,Huggett,2014,Platinum,150,50000
+Sel77617,Selby,2017,Gold,40,45000
+San55614,Santus,2014,Silver,12,30000
+Lee44213,Leewah,2013,Silver,15,37500
+Tho99917,Thompson,2017,Gold,80,169000
+Dav50317,Davenport,2017,Gold,32,25000
+Zyr46217,Zyromski,2017,Silver,7,17500
+Mat13217,Mates,2017,Silver,0,0
+Dok87217,Dokun,2017,Silver,0,0
+Win08217,Winmill,2017,Silver,0,0
+Aro68117,Arooz,2017,Silver,0,0
+Del32317,Delaney,2017,Platinum,100,279000
